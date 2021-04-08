@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civan_AI_UI", "Civan_AI_UI.csproj", "{3B90E3CE-F84D-4E32-A41C-DEDC07A003AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B90E3CE-F84D-4E32-A41C-DEDC07A003AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B90E3CE-F84D-4E32-A41C-DEDC07A003AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B90E3CE-F84D-4E32-A41C-DEDC07A003AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B90E3CE-F84D-4E32-A41C-DEDC07A003AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5509BE-73BE-4F5C-BD4C-7510B8D96A2A}
+	EndGlobalSection
+EndGlobal
